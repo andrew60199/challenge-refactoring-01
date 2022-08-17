@@ -4,5 +4,3 @@ Tasked with some code refactoring, this is attempt is helping develop my skills 
 making sure it works
 
 this was added in feature/test to remember the workflow
-
-third test...
